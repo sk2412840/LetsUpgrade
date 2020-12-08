@@ -1,2 +1,2 @@
 # LetsUpgrade
-For assignment and project submission in letsupdrade
+For assignment and project submission in letsupdrade certification program
